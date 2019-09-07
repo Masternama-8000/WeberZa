@@ -1,5 +1,8 @@
 # WeberZa
 WeberZa is a html website
 
-Coming soon upload a 
-files & Features!
+Version 0.8.0
+
+Features
+
+- hi
