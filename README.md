@@ -7,3 +7,12 @@ Features
 
 - Addded Good GUI
 - Added **Select Menu** button
+- Added Image (Not work)
+- Added Version Itailc text
+
+# Select Menu
+
+Features
+
+- Added Good GUI
+- Added Link page button
